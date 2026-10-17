@@ -1,0 +1,8 @@
+{
+  "icon": "backshield:gui/slots/back_shield",
+  "order": -500,
+  "amount": 1,
+  "drop_rule": "default",
+  "validator_predicates": ["backshield:shield"],
+  "quick_move_predicates": ["backshield:shield"]
+}
